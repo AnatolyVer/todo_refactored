@@ -1,0 +1,33 @@
+.menu {
+    height: 130px;
+    width: 700px;
+    border: 7px double darkslateblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    height: 28px;
+    font-size: 24px;
+    border: 2px solid darkslateblue;
+    background: blanchedalmond;
+    color:darkslateblue;
+}
+
+input::placeholder{
+    color:darkslateblue;
+    padding-left: 3px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 40%;
+}
+
+.addButton{
+    height: 30px;
+    width: 90px;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    position: relative;
+    background-color: darkslateblue;
+    color: white;
+    border-radius: 20px;
+    border-color: darkslateblue;
+    font-size: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 95%;
+}
+
+
+
+
+
+
+

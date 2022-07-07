@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.pageButtons{
+    margin-top: 12.5%;
+    height: 40px;
+    width: 40px;
+}
+.leftButton{
+    margin-right: 10px;
+}
+.rightButton{
+    margin-left: 10px;
+}

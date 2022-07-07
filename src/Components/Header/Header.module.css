@@ -1,0 +1,21 @@
+.header{
+    background-color:darkslateblue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.appName {
+    font-size: 44px;
+    margin-left: 60px;
+}
+
+.author{
+    padding-top: 25px;
+}
+
+.header p {
+    color: white;
+    font-family: 'Trebuchet MS', serif;
+    font-style:italic;
+}
